@@ -87,6 +87,7 @@ void postfix(char expression[]) {
 int main() {
   // clrscr();
   postfix("532*+");
+  // postfix("ab+"); ?
 
   // getch();
   return 0;
